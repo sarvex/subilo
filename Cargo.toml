@@ -11,7 +11,7 @@ repository = "https://github.com/huemul/subilo"
 
 [dependencies]
 actix-cors = "0.2.0"
-actix-http = "1.0.1"
+actix-http = "2.2.2"
 actix-rt = "1.1.1"
 actix-web = "2.0.0"
 actix-web-httpauth = "0.4.1"
